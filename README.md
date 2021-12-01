@@ -2,7 +2,6 @@
 
 
 - 💻 Amo programação
-- 🔭 Astrofísico
 
  <div>
   <a href="https://github.com/jslino">
